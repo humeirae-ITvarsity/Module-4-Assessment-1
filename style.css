@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: grey;
+ }
+
+#left-column{
+   width: 60%;
+   float: left;
+   background-color: yellow;
+}
+
+#eyes img{
+  width: 80px;
+  height: 80px;
+}
+#glasses img{
+  width: 100px;
+  height: 80px;
+}
+#mouth img{
+  width: 80px;
+  height: 80px;
+}
+#shoe img{
+  width: 150px;
+  height: 80px;
+}
+#pants img{
+  width: 250px;
+  height: 300px;
+}
+#shirt img{
+  width: 300px;
+  height: 300px;
+}
+#hair img{
+  width: 280px;
+  height: 200px;
+}
+#hat img{
+  width: 250px;
+  height: 200px;
+}
+#face-hair img{
+  width: 80px;
+  height: 20px;
+}
+
+#right-column img{
+     width: 400px;
+     margin-left: 140px;
+     margin-top: 200px;
+}
+
+img#logo{
+    position: fixed;
+    width: 150px;
+    bottom: 20px;
+    right: 10px;
+}
